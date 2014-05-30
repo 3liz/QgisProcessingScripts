@@ -1,0 +1,22 @@
+(dp0
+S'ALG_CREATOR'
+p1
+VMichaël DOUCHIN - 3liz
+p2
+sS'output'
+p3
+VString containing the file content.
+p4
+sS'ALG_DESC'
+p5
+VThis script read the input file content and pass it as a string output.\u000a\u000aIt can then be used in another chained algorithm.\u000a\u000aNote : only the first 10 Mo of the file are passed to the output.
+p6
+sS'Source_file'
+p7
+VThe text file containing the data to read and pass to the output.
+p8
+sS'ALG_HELP_CREATOR'
+p9
+VMichaël DOUCHIN - 3liz
+p10
+s.

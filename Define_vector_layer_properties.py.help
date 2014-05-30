@@ -1,0 +1,45 @@
+(dp0
+S'ALG_DESC'
+p1
+VThis script apply some properties to the input vector layers : style, CRS, Spatial index, extent, etc.
+p2
+sS'Vector_layers'
+p3
+VThe input vector layers.
+p4
+sS'Coordinate_Reference_System'
+p5
+VCoordinate Reference System (CRS) to set for the vector layers.\u000a\u000aNote: this will not reproject the layer data.
+p6
+sS'ALG_CREATOR'
+p7
+VMichaël DOUCHIN - 3liz
+p8
+sS'QML_file'
+p9
+VIf given, the QML style file will be applied to the vector layer.
+p10
+sS'Layer_abstract'
+p11
+V
+p12
+sS'Layer_title'
+p13
+g12
+sS'ALG_HELP_CREATOR'
+p14
+VMichaël DOUCHIN - 3liz
+p15
+sS'Create_spatial_index'
+p16
+VIf true, QGIS will calcultate the spatial index for the layer (if the provider offers this capability).
+p17
+sS'Calculate_extent'
+p18
+VIf true, the layer extent will be recalculated.
+p19
+sS'Save_layer_style_as_default'
+p20
+VIf true, the layer properties will be saved as the default layer style.
+p21
+s.

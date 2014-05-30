@@ -1,0 +1,26 @@
+(dp0
+S'ALG_DESC'
+p1
+VThis script uses an expression as a filter to select the corresponding features for the input vector layer.
+p2
+sS'Input_vector_layer'
+p3
+VThe input vector layer. \u000a\u000aNote: The vector layer must already be opened in QGIS project before launching this script, otherwise the script won't be able to select the features.
+p4
+sS'ALG_CREATOR'
+p5
+VMichaël DOUCHIN - 3liz
+p6
+sS'ALG_HELP_CREATOR'
+p7
+VMichaël DOUCHIN - 3liz
+p8
+sS'selected_features_count'
+p9
+VThe number of selected features.
+p10
+sS'Expression'
+p11
+VThe QGIS expression to use as a filter.
+p12
+s.

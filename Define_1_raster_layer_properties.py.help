@@ -1,0 +1,34 @@
+(dp0
+S'ALG_DESC'
+p1
+VDefine some properties for a single raster : style, CRS, etc.
+p2
+sS'Coordinate_Reference_System'
+p3
+VCoordinate Reference System (CRS) to set for the raster layer.\u000a\u000aNote: this will not reproject the layer data.
+p4
+sS'ALG_CREATOR'
+p5
+VMichaël DOUCHIN - 3liz
+p6
+sS'QML_file'
+p7
+V[optionnal] If needed, choose the QML style file to apply to the raster.
+p8
+sS'Raster_layer'
+p9
+VThe input raster layer.
+p10
+sS'ALG_HELP_CREATOR'
+p11
+VMichaël DOUCHIN - 3liz
+p12
+sS'Refresh_contrast_enhancement'
+p13
+VRefresh the contrast enhancement for the raster band.
+p14
+sS'Save_layer_style_as_default'
+p15
+VIf true, the layer style will be save as the default style.
+p16
+s.

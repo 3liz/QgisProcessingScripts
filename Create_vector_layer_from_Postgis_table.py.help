@@ -1,0 +1,58 @@
+(dp0
+S'Unique_id_field_name'
+p1
+VField containing the unique ID
+p2
+sS'ALG_DESC'
+p3
+VThis script gets the data from a PostGis table and returns a vector layer.
+p4
+sS'Where_clause'
+p5
+VOptional WHERE clause which lets you filter the data to return
+p6
+sS'ALG_CREATOR'
+p7
+VMichaël DOUCHIN - 3liz
+p8
+sS'Database'
+p9
+VDatabase name
+p10
+sS'Host'
+p11
+VDatabase host (IP adress or domain)
+p12
+sS'Schema'
+p13
+VSchema name
+p14
+sS'ALG_HELP_CREATOR'
+p15
+VMichaël DOUCHIN - 3liz
+p16
+sS'Table'
+p17
+VTable name
+p18
+sS'output'
+p19
+VOutput vector layer with the same columns as the original table.\u000aThe field names may be shorter than the original ones.
+p20
+sS'Geometry_column'
+p21
+VField containing the geometry
+p22
+sS'Password'
+p23
+VPassword for the chosen user
+p24
+sS'Port'
+p25
+VDatabase port (default value: 5432 )
+p26
+sS'User'
+p27
+VUser used to connect to the database
+p28
+s.

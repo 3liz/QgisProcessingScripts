@@ -1,0 +1,26 @@
+(dp0
+S'ALG_DESC'
+p1
+VThis script creates a square grid for the input layer extent. \u000aThe grid size can be chosen by the user.
+p2
+sS'ALG_CREATOR'
+p3
+VMichaël DOUCHIN - 3liz
+p4
+sS'cellsize'
+p5
+VThe size of each grid cell in map units.
+p6
+sS'grid'
+p7
+VThe output vector grid.
+p8
+sS'ALG_HELP_CREATOR'
+p9
+VMichaël DOUCHIN - 3liz
+p10
+sS'input'
+p11
+VThe input vector layer
+p12
+s.

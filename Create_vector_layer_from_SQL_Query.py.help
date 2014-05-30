@@ -1,0 +1,44 @@
+(dp0
+S'Unique_id_field_name'
+p1
+VName of the field containing the unique ID.
+p2
+sS'Geometry_field_name'
+p3
+VName of the field containing the geometry.
+p4
+sS'Avoid_select_by_id'
+p5
+V-
+p6
+sNV
+p7
+sS'ALG_DESC'
+p8
+VThis script runs any query on a PostGis or Spatialite connection, and returns a vector layer.
+p9
+sS'Connection_name'
+p10
+VName of the connection as written in QGIS database tools.
+p11
+sS'ALG_CREATOR'
+p12
+VMichaël DOUCHIN - 3liz
+p13
+sS'ALG_HELP_CREATOR'
+p14
+VMichaël DOUCHIN - 3liz
+p15
+sS'output'
+p16
+VOuput vector layer containing the result of the query.
+p17
+sS'Query'
+p18
+VThe complete SQL query to run.\u000a\u000aThis can be any query (for example with more than one table).
+p19
+sS'Database_type'
+p20
+VType of the database : PostGIS or Spatialite.
+p21
+s.
